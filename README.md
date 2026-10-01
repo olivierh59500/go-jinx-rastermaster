@@ -100,3 +100,17 @@ Android validation: installed and checked on a Pixel 10a. The scene maintains
 approximately 50 simulation updates and 60 displayed frames per second, with
 about 7–16 MiB of observed Go heap, including audio playback. APK signature and 16 KB ZIP/ELF
 alignment checks pass. All ten soundtracks decode and produce non-silent PCM.
+
+## Video export
+
+```sh
+go run ./cmd/video
+```
+
+This creates a three-minute 50 fps H.264/AAC MP4, a PNG poster and a JSON report
+under `recordings/`. DCK exports only the game canvas and its own audio, using
+one simulation clock. Graphics are scaled by an integer factor of two. The
+recordings are local generated media. Duration and poster time can be changed
+with `-duration` and `-poster-at`.
+
+The recording shows the opening card for three seconds before the main scene.
