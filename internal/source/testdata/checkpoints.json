@@ -1,0 +1,30 @@
+[
+  {
+    "tick": 60,
+    "display_sha256": "ee5e162d6df9fcc2f1df629417005e42ffc19e51c3cc1a743558fae511a441e7"
+  },
+  {
+    "tick": 650,
+    "display_sha256": "1258272572070602f5186ea5fe0f58b8be466a24d7c7dedff58421ea31b36260"
+  },
+  {
+    "tick": 1542,
+    "display_sha256": "b8bb9e15aaf78a54b186ec11709630770fd227dc469b9a35184edc6478cb2216"
+  },
+  {
+    "tick": 3196,
+    "display_sha256": "58a4bcc739218a2807cbb2b32494333b8aae626a8a4cc0900f7242db5a6402d6"
+  },
+  {
+    "tick": 3476,
+    "display_sha256": "40509659c438f4bfe554505d6e104db028792ea3fad7d2f2baa408ddda85c1ce"
+  },
+  {
+    "tick": 4752,
+    "display_sha256": "1fcc565c78bcf6f841ba8a38078f50a9e4a68c642c6efc6bd96c596aa1b015ee"
+  },
+  {
+    "tick": 6000,
+    "display_sha256": "3219648bd64b48f15657c4af19ecb4ea897c3fe6323062814d50971a144f0caf"
+  }
+]

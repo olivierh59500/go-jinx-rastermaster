@@ -1,0 +1,72 @@
+[
+  {
+    "key": "F1",
+    "file": "music-1.ym",
+    "title": "Jinx 1",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F2",
+    "file": "music-2.ym",
+    "title": "Roll out 1",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F3",
+    "file": "music-3.ym",
+    "title": "Roll out 2",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F4",
+    "file": "music-4.ym",
+    "title": "Little Color Demo - Axel F",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F5",
+    "file": "music-5.ym",
+    "title": "Knucklebusters",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F6",
+    "file": "music-6.ym",
+    "title": "Eliminator",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F7",
+    "file": "music-7.ym",
+    "title": "Great Giana Sisters 4 - ingame 2",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F8",
+    "file": "music-8.ym",
+    "title": "Wings of Death 1 - level 1",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F9",
+    "file": "music-9.ym",
+    "title": "Turrican 2 - world 1-1 The Desert rocks",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  },
+  {
+    "key": "F10",
+    "file": "music-10.ym",
+    "title": "Union Demo - Alloy Run",
+    "arranger": "Mad Max (Jochen Hippel)",
+    "replacement": true
+  }
+]
