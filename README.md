@@ -98,5 +98,5 @@ inspection. The executable is not needed to run the converted intro.
 
 Android validation: installed and checked on a Pixel 10a. The scene maintains
 approximately 50 simulation updates and 60 displayed frames per second, with
-about 7–11 MiB of observed Go heap after startup. APK signature and 16 KB ZIP/ELF
+about 7–16 MiB of observed Go heap, including audio playback. APK signature and 16 KB ZIP/ELF
 alignment checks pass. All ten soundtracks decode and produce non-silent PCM.
