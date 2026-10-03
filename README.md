@@ -14,6 +14,25 @@ meters and audio playback. A small production-specific controller preserves
 the original lookup-table phases and ordered palette writes. The visual clock
 runs at **50 Hz** on desktop and Android, independently of display refresh rate.
 
+<!-- Project showcase -->
+## Screenshots
+
+[![Metallic DMA logos, layered rainbow rasters, scrolling text, and music meters](docs/media/screenshot-1.png)](docs/media/screenshot-1.png)
+
+Metallic DMA logos, layered rainbow rasters, scrolling text, and music meters.
+
+## Video
+
+[![Animated preview of Raster Master Go](docs/media/preview.gif)](https://github.com/olivierh59500/go-jinx-rastermaster/raw/refs/heads/main/docs/media/preview.mp4)
+
+**[Watch or download the 24-second MP4 preview with sound](https://github.com/olivierh59500/go-jinx-rastermaster/raw/refs/heads/main/docs/media/preview.mp4)**
+
+This preview is captured from the Go production.
+
+The animated image is silent; the MP4 includes the soundtrack.
+
+<!-- End project showcase -->
+
 ## Run
 
 ```sh
